@@ -4,7 +4,7 @@ Programador JR. Estudiante de Inteligencia Artificial y robótica. Técnico en i
 Me gusta aprender cada día más y mejorar, creo que por eso me gusta tanto enforcarme en esta carrera que necesita mucha atención y pasión
 ### PHP Y PYTHON ENJOYER (Un poquito java y c#)
 
-#### Actualmente me estoy interesando por el uso de las inteligencias artificiales y la robótica. Además tengo la aspiración de ser investigador de las nuevas tecnologias.
+Actualmente me estoy interesando por el uso de las inteligencias artificiales y la robótica. Además tengo la aspiración de ser investigador de las nuevas tecnologias.
  
 ### Aqui mi lista de  proyectos de IA que hice en google colab, para algo los complete 🐱‍👤 
 
