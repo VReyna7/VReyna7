@@ -40,6 +40,7 @@
 <h2>Mis proyectos importantes</h2>
 
 ### Analizador de placas
+[Acceder al Proyecto en Google Colab](https://colab.research.google.com/drive/1Tke0BWnte7dPxcmN-YzXMkipbonGsybF)
 ### Características
 - Proyecto creado gracias al curso de Python para la inteligencia artificial
 - Se usaron diferentes metodos para poder encontrar la placa del vehiculo
