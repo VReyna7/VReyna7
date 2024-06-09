@@ -9,6 +9,11 @@
 </div>
 <hr>
 
+<p align="center">
+  <a href="mailto:veduardo239@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/victor-reyna-168a78290/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
 <h2>Conóceme 🧐</h2>
 
 - 👨‍💻 Soy programador web JR además tengo conocimiento en el procesamiento de datos y en el uso de Python para la inteligencia artificial.
@@ -46,11 +51,3 @@
 - Proyecto creado gracias al curso de Python para la inteligencia artificial.
 - Se usaron diferentes métodos para poder encontrar la placa del vehículo.
 - Es aún mejorable.
-
-<hr>
-
-<p align="center">
-<a href="mailto:veduardo239@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/victor-reyna-168a78290/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
