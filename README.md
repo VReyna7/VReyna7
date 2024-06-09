@@ -1,7 +1,6 @@
 <hr>
 <div>
-<h1 align="center">Victor Reyna</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36F781&background=EBFF1B00&random=false&width=600&height=60&lines=Programador+web+%2F+Estudiante+de+Robotica+e+IA" alt="Typing SVG" /></a>
+<h1 align="center">Victor Reyna <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36F781&background=EBFF1B00&random=false&width=600&height=60&lines=Programador+web+%2F+Estudiante+de+Robotica+e+IA" alt="Typing SVG" /></a></h1>
 </div>
 Programador JR. Estudiante de Inteligencia Artificial y robótica. Técnico en ingeniería en ciencias de la computación 
 Me gusta aprender cada día más y mejorar, creo que por eso me gusta tanto enforcarme en esta carrera que necesita mucha atención y pasión
