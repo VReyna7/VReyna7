@@ -38,22 +38,13 @@
 <hr>
 
 <h3>Mis proyectos importantes</h3>
-# Mi Proyecto
 
-![Proyecto Activo](https://img.shields.io/badge/Proyecto-Activo-green?style=flat)
-
-## Conóceme
-
-¡Hola! Soy [Tu Nombre], un apasionado desarrollador de software con experiencia en [tus áreas de especialización]. Me encanta crear soluciones innovadoras y trabajar en proyectos desafiantes.
-
+![Static Badge](https://img.shields.io/badge/RevisorPlacas-orange?style=flat-square&label=Proyecto)
 ## Características
-
-- Característica 1
-- Característica 2
-- Característica 3
-
+- Proyecto creado gracias al curso de Python para la inteligencia artificial
+- Se usaron diferentes metodos para poder encontrar la placa del vehiculo
+- Es aún mejorable. 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Coverage](https://img.shields.io/badge/coverage-90%25-yellowgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 
