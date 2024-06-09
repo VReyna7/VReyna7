@@ -51,3 +51,13 @@
 - Se usaron diferentes métodos para poder encontrar la placa del vehículo.
 - Es aún mejorable.
 
+### Procesamiento de datos de rating de videojuegos
+[Acceder al Proyecto en Google Colab](https://colab.research.google.com/drive/1NclyMvaX1s8dpN7aZVbC6BTl29_IiWvi?usp=sharing)  
+
+![Estado](https://img.shields.io/badge/Proceso-Terminado-brightgreen)  
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
+### Características
+- Se usaron librerias como numpy , matplotlib, pandas y seaborn.
+- Se usaron diferentes tipos de grafica para representar relaciones 
+- Se dio por finalizado y como conclusión de que los juegos con más rating son usualmente más terminados y sus logros son completados.
