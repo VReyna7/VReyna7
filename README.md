@@ -41,11 +41,11 @@
 
 ### Analizador de placas
 [Acceder al Proyecto en Google Colab](https://colab.research.google.com/drive/1Tke0BWnte7dPxcmN-YzXMkipbonGsybF)
+![Estado](https://img.shields.io/badge/Proceso-Terminado-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
 ### Características
 - Proyecto creado gracias al curso de Python para la inteligencia artificial
 - Se usaron diferentes metodos para poder encontrar la placa del vehiculo
 - Es aún mejorable.
-![Estado](https://img.shields.io/badge/Proceso-Terminado-brightgreen)
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-
 
