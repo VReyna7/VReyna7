@@ -15,3 +15,16 @@
 - 👨‍🦱 - Estoy acostumbrado a trabajar en equipos y ser activo en la toma de desiciones para la mejora de proyectos.
 - 🔓 - Estoy abierto a cualquier oportunidad de crecimiento dentro de mi campo de estudios
 - 👨‍⚕️ - Me gustaria empezar diferentes investigaciones por pasión además soy aficionado al futbol y Voleyball
+<hr>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologías que uso</h2></summary>
+  </ul>
+</div>
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,github,css,html,js,java,php,mysql,py,react,c#" />
+  </a>
+</p>
