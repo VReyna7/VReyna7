@@ -1,7 +1,7 @@
 <hr>
 
 <div style="width:100%; display:flex; aling-items:center;">
- <center><h1>Victor Reyna</h1></center>
+<h1 style="width:100%; text-align: center;">Victor Reyna</h1>
 </div>
 Programador JR. Estudiante de Inteligencia Artificial y robótica. Técnico en ingeniería en ciencias de la computación 
 Me gusta aprender cada día más y mejorar, creo que por eso me gusta tanto enforcarme en esta carrera que necesita mucha atención y pasión
