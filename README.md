@@ -37,7 +37,7 @@
 <br>
 <hr>
 
-<h3>Mis proyectos importantes</h3>
+<h2>Mis proyectos importantes</h2>
 
 ## Analizador de placas
 ### Características
