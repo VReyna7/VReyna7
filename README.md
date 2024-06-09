@@ -12,4 +12,6 @@
 - 👨‍💻 - Soy programador web JR además tengo conocimiento en el procesamiento de datos y en el uso de python para la inteligencia artificial 
 - 🤖 - Actualmente estoy estudiando una <a href="https://carreras.ufg.edu.sv/carrera/ingenieria-en-inteligencia-artificial-y-robotica/">Ingeniería en inteligencia artificial y robótica</a> 
 - 👨‍🎓 - Soy técnico egresado de la Universidad Don Bosco en la carrera de <a href="https://www.udb.edu.sv/udb/carreras/carrera/tecnico_en_ingenieria_en_computacion" target="_blank">Técnico en ingeniería en Computación</a>. Tuve la oportunidad de graduarme con CUM LAUDE. 
-
+- 👨‍🦱 - Estoy acostumbrado a trabajar en equipos y ser activo en la toma de desiciones para la mejora de proyectos.
+- 🔓 - Estoy abierto a cualquier oportunidad de crecimiento dentro de mi campo de estudios
+- 👨‍⚕️ - Me gustaria empezar diferentes investigaciones por pasión además soy aficionado al futbol y Voleyball
