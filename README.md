@@ -10,4 +10,4 @@
 <h2>Conoceme 🧐</h2>
 
 - Actualmente estoy estudiando una <a href="https://carreras.ufg.edu.sv/carrera/ingenieria-en-inteligencia-artificial-y-robotica/">Ingeniería en inteligencia artificial y robótica</a> 
-- Soy técnico egresado de la Universidad Don Bosco en la carrera de <a href="https://www.udb.edu.sv/udb/carreras/carrera/tecnico_en_ingenieria_en_computacion" target="_blank">Técnico en ingeniería en Computación</a>. Tuve la oportunidad de graduarme con CUM LAUDE. 👨‍🎓
+- 👨‍🎓 Soy técnico egresado de la Universidad Don Bosco en la carrera de <a href="https://www.udb.edu.sv/udb/carreras/carrera/tecnico_en_ingenieria_en_computacion" target="_blank">Técnico en ingeniería en Computación</a>. Tuve la oportunidad de graduarme con CUM LAUDE. 
