@@ -1,4 +1,6 @@
-<h1>Victor Reyna</h1>
+<div>
+ <center><h1>Victor Reyna</h1></center>
+</div>
 Programador JR. Estudiante de Inteligencia Artificial y robótica. Técnico en ingeniería en ciencias de la computación 
 Me gusta aprender cada día más y mejorar, creo que por eso me gusta tanto enforcarme en esta carrera que necesita mucha atención y pasión
 ### PHP Y PYTHON ENJOYER (Un poquito java y c#)
