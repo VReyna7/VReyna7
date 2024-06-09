@@ -8,3 +8,6 @@
 <hr>
 <br>
 <h2>Conoceme 🧐</h2>
+
+-Soy técnico egresado de la Universidad Don Bosco en la carrera de <a href="https://www.udb.edu.sv/udb/carreras/carrera/tecnico_en_ingenieria_en_computacion">Técnico en ingeniería en Computación</a>. Tuve la oportunidad de graduarme con CUM LAUDE. 👨‍🎓
+
