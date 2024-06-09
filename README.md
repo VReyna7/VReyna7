@@ -39,8 +39,8 @@
 
 <h3>Mis proyectos importantes</h3>
 
-#Analizador de placas
-## Características
+## Analizador de placas
+### Características
 - Proyecto creado gracias al curso de Python para la inteligencia artificial
 - Se usaron diferentes metodos para poder encontrar la placa del vehiculo
 - Es aún mejorable. 
