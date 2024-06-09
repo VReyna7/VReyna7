@@ -1,6 +1,9 @@
 <hr>
+<div style="background-color: #f0f0f0; padding: 20px;">
+  <p>Tu contenido aquí</p>
+</div>
 
-<div style="background-color:red; display:flex; aling-items:center;">
+<div style="background-color:red">
 <h1 style="text-align: center;">Victor Reyna</h1>
 </div>
 Programador JR. Estudiante de Inteligencia Artificial y robótica. Técnico en ingeniería en ciencias de la computación 
