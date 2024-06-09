@@ -34,6 +34,7 @@
     <img src="https://skillicons.dev/icons?i=figma,git,css,html,js,java,php,mysql,py,react,ubuntu,cs,laravel" />
   </a>
 </p>
+<br>
 <hr>
 
 <h3>Mis proyectos importantes</h3>
