@@ -38,3 +38,22 @@
 <hr>
 
 <h3>Mis proyectos importantes</h3>
+# Mi Proyecto
+
+![Proyecto Activo](https://img.shields.io/badge/Proyecto-Activo-green?style=flat)
+
+## Conóceme
+
+¡Hola! Soy [Tu Nombre], un apasionado desarrollador de software con experiencia en [tus áreas de especialización]. Me encanta crear soluciones innovadoras y trabajar en proyectos desafiantes.
+
+## Características
+
+- Característica 1
+- Característica 2
+- Característica 3
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Coverage](https://img.shields.io/badge/coverage-90%25-yellowgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
+
