@@ -39,7 +39,7 @@
 
 <h3>Mis proyectos importantes</h3>
 
-![Static Badge](https://img.shields.io/badge/RevisorPlacas-orange?style=flat-square&label=Proyecto)
+#Analizador de placas
 ## Características
 - Proyecto creado gracias al curso de Python para la inteligencia artificial
 - Se usaron diferentes metodos para poder encontrar la placa del vehiculo
