@@ -47,7 +47,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 ### Características
-- Proyecto creado gracias al curso de Python para la inteligencia artificial.
+- Proyecto creado gracias a lo aprendido en un curso de python para la inteligencia artificial
 - Se usaron diferentes métodos para poder encontrar la placa del vehículo.
 - Es aún mejorable.
 
