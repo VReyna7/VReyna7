@@ -2,7 +2,7 @@
 <div id="user-content-toc"> 
   <ul align="center">
     <summary><h1 style="display: inline-block">Soy Victor Reyna, Bienvenidos a mi GitHub</h1></summary>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ESTUDIANTE+DE+ING+DE+LA+COMPUTACI%C3%93N;PHP-PYTHON+DEVELOPER" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ESTUDIANTE+DE+LA+ING+EN+COMPUTACI%C3%93N;PHP-PYTHON+DEVELOPER" alt="Typing SVG" /></a>
   </ul>
 </div>
 <p align="center">
